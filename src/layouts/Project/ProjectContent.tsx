@@ -12,7 +12,7 @@ export const ProjectContent = () => {
 
       <div className="w-full h-20 bg-gray-50 border-t border-gray-200 px-8 py-4">
         <div className="w-full h-full rounded-full border border-gray-200 flex items-center px-4">
-          <p className="text-gray-400 text-sm">What questions do you have?</p>
+          <p className="text-gray-400 text-sm">Ask our Ai to produce a different visualization....</p>
         </div>
       </div>
     </div>
